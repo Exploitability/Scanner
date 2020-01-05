@@ -5,7 +5,7 @@ Vulnerability scanner is a simple, straightforward Python script that checks for
   <li>Clickjacking protection</li>
   <li>XSS filtering</li>
   <li>Content security policy</li>
-  <li>Sniffing protect</li>
+  <li>Sniffing protection</li>
 </ul> 
 
 <h1>Usage guide:</h1>
